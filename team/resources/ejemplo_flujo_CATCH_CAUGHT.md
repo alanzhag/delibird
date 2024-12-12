@@ -131,7 +131,7 @@ TODO: Averiguar si me pueden cortar la ejecucion mientras estoy haciendo algo (R
 > * Voy a manejar la idea de una "tarea parcialmente completada", asi puedo retomar desde donde la dejé.
 > * Al tener guardada como atributo su tarea, puede dejar a un costado anotado donde quedó, para retomar de ahí.
 > * La tarea pueden ser modelada como una lista de cosas para hacer.
-> * Usaria funciones aplicables parcialmente #jojoó_pdp_feelings.
+> * Usaria funciones aplicables parcialmente.
 > * La cantidad de ciclos de cpu determina cuanto avanzo el puntero de instrucciones y ademas si lo guardo
 > puedo trackear cuanto me falta.
 > * Un entrenador con tarea asignada no puede calificar para otras cosas, a.k.a no esta libre.
